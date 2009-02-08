@@ -1,0 +1,88 @@
+#add_time_tab {
+  display: none !important;
+}
+
+#entries {
+  width: 100% !important;
+  margin: 0px !important;
+  background-color: #EDEDED !important;
+}
+
+#container {
+  width: 100% !important;
+  padding: 0 !important;
+  background: none !important;
+}
+
+.stream_topnav {
+  display: none;
+}
+
+.stream_container {
+  background: none !important;
+}
+
+.stream_container .stream_body {
+  background: none !important;
+  background-color: #D3E2E8 !important;
+}
+
+#top-bar h1 {
+  width: 100% !important;
+}
+
+#top-bar {
+  padding-right: 10px !important;
+  padding-left: 10px !important;
+}
+
+#add_note_form {
+  margin-left: 0px !important;
+  width: 100% !important;
+  border-right: 1px solid black;
+}
+
+.stream {
+  width: 60% !important;
+  border-right: 1px solid black;
+  background-color: #EDEDED !important;
+}
+
+.sidebar {
+  width: 40% !important;
+  min-width: 150px !important;
+  background-color: #D3E2E8 !important;
+}
+
+.feedback {
+  display: none;
+}
+
+#controls {
+  color: #000 !important;
+}
+
+#controls a[target=_blank] {
+  display: none;
+}
+
+#controls a {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+.sidetools {
+  display: none;
+}
+
+.sidebar h2 {
+  margin-left: -6px;
+}
+
+.stream_footer {
+  display: none;
+}
+
+#footer {
+  display: none;
+}
